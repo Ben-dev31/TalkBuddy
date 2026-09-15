@@ -1,0 +1,7 @@
+{
+  "name": "TalkBuddy",
+  "description": "Apprenez l'anglais par des discussions quotidiennes avec un ami natif IA, en mode vocal ou textuel avec chrono.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
